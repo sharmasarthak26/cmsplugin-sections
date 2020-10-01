@@ -1,4 +1,4 @@
-cmsplugin-sections
+Members of cmsplugin
 ==================
 
 This is a plugin "system" (really just two) for making "single-page scroller"
@@ -113,7 +113,7 @@ NOTE:
 	
 	If is entirely optional to create your own pluginmodel if you don't need
 	to add configuration options. You *could* just use the provided one, but,
-	if you ever change your mind, it will be rather complicated to migrate any
+	if you ever change a decision or an opinion, it will be rather complicated to migrate any
 	existing Section plugins to your new model. If instead you create an
 	intermediate base class like the one shown above, even if its body is
 	simply: `pass`, you will thank yourself in the future when you decide to
